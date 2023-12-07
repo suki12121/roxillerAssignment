@@ -1,0 +1,69 @@
+/* styles.css */
+
+.main-bg {
+  background-color: gainsboro;
+  padding: 20px;
+}
+
+.button-bg {
+  margin-top: 10px;
+}
+
+.heading {
+  background-color: #ebd3d3;
+  color: #0056b3;
+  height: 20vh;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 600px;
+  border-radius: 20px;
+  padding: 50px;
+}
+
+.search-bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 800px;
+  margin-left: 400px;
+}
+
+.selected {
+  margin-right: 10px;
+}
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+  background-color: blanchedalmond;
+}
+
+table th,
+table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+table th {
+  background-color: #ebd3d3;
+}
+
+/* Pagination button styling */
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  border: none;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

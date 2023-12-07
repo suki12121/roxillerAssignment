@@ -1,0 +1,17 @@
+GET http://localhost:3000/initialize_database
+
+###
+
+GET http://localhost:3000/statistics/02/
+}
+
+###
+
+GET  http://localhost:3000/list_transactions/02/
+
+###
+
+GET http://localhost:3000/bar_chart_data/07/
+###
+
+GET http://localhost:3000/pie_chart_data/04/  

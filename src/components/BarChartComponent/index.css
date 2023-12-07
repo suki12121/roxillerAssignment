@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bar-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+  background-color: #d5f0ef;
+  margin-top: 20px;
+}
+
+.bar-heading {
+  margin-left: 600px;
+}
+
+.bar-heading1 {
+  margin-left: 650px;
+}
